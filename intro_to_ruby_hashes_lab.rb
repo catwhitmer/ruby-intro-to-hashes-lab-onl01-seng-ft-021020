@@ -36,8 +36,7 @@ def monopoly
 	      {
 	        "mortage_value" => "$800"
 	      }
-	    },
-	    
+	    }
 	  }
 	}
 
