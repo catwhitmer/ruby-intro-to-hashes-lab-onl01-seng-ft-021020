@@ -20,7 +20,9 @@ def monopoly
 	      :b_and_o_railroad => {
 	        :mortage_value => "$400"
 	      },
-	      :shortlin_railroad => {}
+	      :shortline_railroad => {
+	        :mortage_value => "$800"
+	      }
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
